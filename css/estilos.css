@@ -1,9 +1,14 @@
 body
 {
-    color: rgb(45, 180, 72);
+    color: rgb(32, 128, 21);
     text-align: center;
+<<<<<<< HEAD
     font-family: "Courier";
     font-size: 250px;
+=======
+    font-family: "Arial";
+ 
+>>>>>>> cabecera
     margin: 0;
     padding: 0;
 }
@@ -15,4 +20,12 @@ padding: 1em;
 text-align: left;
 border:  1px solid #DDD;
 margin: 0s auto;
+}
+
+#cabecera {
+    background-color: rgb(32, 128, 21);
+    font: bold ;
+    margin: 0;
+    padding: 0.5em;
+    color: rgb(238, 233, 242);
 }
